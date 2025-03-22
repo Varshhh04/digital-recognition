@@ -4,6 +4,7 @@
 This project focuses on **recognizing handwritten digits (0-9)** using **Deep Learning (CNN)**. It is based on the **MNIST dataset**, which contains thousands of handwritten digits.  
 
  **📌 What This Project Does**
+ 
 1️⃣ **Trains a Deep Learning model** to recognize digits from images.  
 2️⃣ **Tests the model** on handwritten digits.  
 3️⃣ **Predicts digits** from user-input images.  
